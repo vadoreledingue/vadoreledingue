@@ -25,7 +25,7 @@ I'm **vadore\_**, a curious explorer just landing in the vast tech universe. Cur
 ## 🛠️ My Current Constellation (Skills)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,vscode,ubuntu,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,ubuntu,bash,notion,&theme=dark" />
 </p>
 
 > _Expanding my skills every single day..._ 🌌
