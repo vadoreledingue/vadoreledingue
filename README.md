@@ -17,7 +17,7 @@ I'm **vadore\_**, a curious explorer just landing in the vast tech universe. Cur
 
 - 🚀 **New in Tech:** Embarking on a journey to become a developer.
 - 📖 **Learning:** Deep diving into the foundations and discovering the magic of programming.
-- 🔭 **Goal:** Turning ideas into digital reality, one star at a time.
+- 🔭 **Goal:** F\*ck around and find out
 - 💜 Driven by purple vibes
 
 ---
